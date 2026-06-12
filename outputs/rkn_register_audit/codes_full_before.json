@@ -1,0 +1,424 @@
+{
+  "items": [
+    {
+      "row_id": 65757,
+      "relevance": "colored",
+      "stance_rkn": "supportive",
+      "register": "authored",
+      "target_of_negativity": "western_platforms"
+    },
+    {
+      "row_id": 36565,
+      "relevance": "regex_noise",
+      "stance_rkn": "neutral_none",
+      "register": "authored",
+      "target_of_negativity": "western_platforms"
+    },
+    {
+      "row_id": 37600,
+      "relevance": "colored",
+      "stance_rkn": "critical",
+      "register": "authored",
+      "target_of_negativity": "rkn"
+    },
+    {
+      "row_id": 83004,
+      "relevance": "no_stance",
+      "stance_rkn": "neutral_none",
+      "register": "news_relay",
+      "target_of_negativity": "western_platforms"
+    },
+    {
+      "row_id": 65409,
+      "relevance": "no_stance",
+      "stance_rkn": "neutral_none",
+      "register": "news_relay",
+      "target_of_negativity": "none"
+    },
+    {
+      "row_id": 494,
+      "relevance": "colored",
+      "stance_rkn": "critical",
+      "register": "authored",
+      "target_of_negativity": "rkn"
+    },
+    {
+      "row_id": 52793,
+      "relevance": "no_stance",
+      "stance_rkn": "neutral_none",
+      "register": "authored",
+      "target_of_negativity": "none"
+    },
+    {
+      "row_id": 2045,
+      "relevance": "no_stance",
+      "stance_rkn": "neutral_none",
+      "register": "news_relay",
+      "target_of_negativity": "none"
+    },
+    {
+      "row_id": 59209,
+      "relevance": "regex_noise",
+      "stance_rkn": "neutral_none",
+      "register": "authored",
+      "target_of_negativity": "none"
+    },
+    {
+      "row_id": 18030,
+      "relevance": "no_stance",
+      "stance_rkn": "neutral_none",
+      "register": "news_relay",
+      "target_of_negativity": "none"
+    },
+    {
+      "row_id": 16379,
+      "relevance": "no_stance",
+      "stance_rkn": "neutral_none",
+      "register": "news_relay",
+      "target_of_negativity": "none"
+    },
+    {
+      "row_id": 10903,
+      "relevance": "no_stance",
+      "stance_rkn": "neutral_none",
+      "register": "news_relay",
+      "target_of_negativity": "none"
+    },
+    {
+      "row_id": 36712,
+      "relevance": "regex_noise",
+      "stance_rkn": "neutral_none",
+      "register": "authored",
+      "target_of_negativity": "other"
+    },
+    {
+      "row_id": 37934,
+      "relevance": "regex_noise",
+      "stance_rkn": "neutral_none",
+      "register": "authored",
+      "target_of_negativity": "none"
+    },
+    {
+      "row_id": 28553,
+      "relevance": "no_stance",
+      "stance_rkn": "neutral_none",
+      "register": "news_relay",
+      "target_of_negativity": "none"
+    },
+    {
+      "row_id": 30272,
+      "relevance": "colored",
+      "stance_rkn": "supportive",
+      "register": "news_relay",
+      "target_of_negativity": "western_platforms"
+    },
+    {
+      "row_id": 44905,
+      "relevance": "colored",
+      "stance_rkn": "critical",
+      "register": "authored",
+      "target_of_negativity": "rkn"
+    },
+    {
+      "row_id": 9446,
+      "relevance": "colored",
+      "stance_rkn": "ambiguous",
+      "register": "mixed",
+      "target_of_negativity": "none"
+    },
+    {
+      "row_id": 1574,
+      "relevance": "colored",
+      "stance_rkn": "supportive",
+      "register": "mixed",
+      "target_of_negativity": "western_platforms"
+    },
+    {
+      "row_id": 25782,
+      "relevance": "colored",
+      "stance_rkn": "ambiguous",
+      "register": "authored",
+      "target_of_negativity": "none"
+    },
+    {
+      "row_id": 46850,
+      "relevance": "no_stance",
+      "stance_rkn": "neutral_none",
+      "register": "news_relay",
+      "target_of_negativity": "none"
+    },
+    {
+      "row_id": 32558,
+      "relevance": "colored",
+      "stance_rkn": "critical",
+      "register": "authored",
+      "target_of_negativity": "rkn"
+    },
+    {
+      "row_id": 27281,
+      "relevance": "no_stance",
+      "stance_rkn": "neutral_none",
+      "register": "news_relay",
+      "target_of_negativity": "none"
+    },
+    {
+      "row_id": 48393,
+      "relevance": "no_stance",
+      "stance_rkn": "neutral_none",
+      "register": "news_relay",
+      "target_of_negativity": "none"
+    },
+    {
+      "row_id": 50450,
+      "relevance": "colored",
+      "stance_rkn": "critical",
+      "register": "authored",
+      "target_of_negativity": "rkn"
+    },
+    {
+      "row_id": 25274,
+      "relevance": "no_stance",
+      "stance_rkn": "neutral_none",
+      "register": "news_relay",
+      "target_of_negativity": "none"
+    },
+    {
+      "row_id": 28551,
+      "relevance": "regex_noise",
+      "stance_rkn": "neutral_none",
+      "register": "authored",
+      "target_of_negativity": "other"
+    },
+    {
+      "row_id": 56010,
+      "relevance": "no_stance",
+      "stance_rkn": "neutral_none",
+      "register": "news_relay",
+      "target_of_negativity": "none"
+    },
+    {
+      "row_id": 41945,
+      "relevance": "no_stance",
+      "stance_rkn": "neutral_none",
+      "register": "mixed",
+      "target_of_negativity": "none"
+    },
+    {
+      "row_id": 27506,
+      "relevance": "colored",
+      "stance_rkn": "supportive",
+      "register": "news_relay",
+      "target_of_negativity": "western_platforms"
+    },
+    {
+      "row_id": 80720,
+      "relevance": "colored",
+      "stance_rkn": "critical",
+      "register": "authored",
+      "target_of_negativity": "rkn"
+    },
+    {
+      "row_id": 5497,
+      "relevance": "no_stance",
+      "stance_rkn": "neutral_none",
+      "register": "news_relay",
+      "target_of_negativity": "none"
+    },
+    {
+      "row_id": 64693,
+      "relevance": "no_stance",
+      "stance_rkn": "neutral_none",
+      "register": "news_relay",
+      "target_of_negativity": "none"
+    },
+    {
+      "row_id": 59347,
+      "relevance": "regex_noise",
+      "stance_rkn": "neutral_none",
+      "register": "authored",
+      "target_of_negativity": "none"
+    },
+    {
+      "row_id": 36141,
+      "relevance": "no_stance",
+      "stance_rkn": "neutral_none",
+      "register": "news_relay",
+      "target_of_negativity": "none"
+    },
+    {
+      "row_id": 43541,
+      "relevance": "colored",
+      "stance_rkn": "critical",
+      "register": "authored",
+      "target_of_negativity": "rkn"
+    },
+    {
+      "row_id": 30379,
+      "relevance": "colored",
+      "stance_rkn": "supportive",
+      "register": "authored",
+      "target_of_negativity": "western_platforms"
+    },
+    {
+      "row_id": 42652,
+      "relevance": "no_stance",
+      "stance_rkn": "neutral_none",
+      "register": "news_relay",
+      "target_of_negativity": "none"
+    },
+    {
+      "row_id": 85271,
+      "relevance": "colored",
+      "stance_rkn": "supportive",
+      "register": "authored",
+      "target_of_negativity": "western_platforms"
+    },
+    {
+      "row_id": 56809,
+      "relevance": "no_stance",
+      "stance_rkn": "neutral_none",
+      "register": "news_relay",
+      "target_of_negativity": "none"
+    },
+    {
+      "row_id": 85946,
+      "relevance": "colored",
+      "stance_rkn": "supportive",
+      "register": "mixed",
+      "target_of_negativity": "western_platforms"
+    },
+    {
+      "row_id": 58576,
+      "relevance": "regex_noise",
+      "stance_rkn": "neutral_none",
+      "register": "authored",
+      "target_of_negativity": "none"
+    },
+    {
+      "row_id": 4425,
+      "relevance": "colored",
+      "stance_rkn": "supportive",
+      "register": "authored",
+      "target_of_negativity": "western_platforms"
+    },
+    {
+      "row_id": 1124,
+      "relevance": "colored",
+      "stance_rkn": "critical",
+      "register": "authored",
+      "target_of_negativity": "rkn"
+    },
+    {
+      "row_id": 66851,
+      "relevance": "no_stance",
+      "stance_rkn": "neutral_none",
+      "register": "news_relay",
+      "target_of_negativity": "none"
+    },
+    {
+      "row_id": 57021,
+      "relevance": "no_stance",
+      "stance_rkn": "neutral_none",
+      "register": "news_relay",
+      "target_of_negativity": "none"
+    },
+    {
+      "row_id": 66849,
+      "relevance": "colored",
+      "stance_rkn": "supportive",
+      "register": "mixed",
+      "target_of_negativity": "western_platforms"
+    },
+    {
+      "row_id": 71293,
+      "relevance": "colored",
+      "stance_rkn": "supportive",
+      "register": "authored",
+      "target_of_negativity": "other"
+    },
+    {
+      "row_id": 84266,
+      "relevance": "no_stance",
+      "stance_rkn": "neutral_none",
+      "register": "news_relay",
+      "target_of_negativity": "none"
+    },
+    {
+      "row_id": 47359,
+      "relevance": "regex_noise",
+      "stance_rkn": "neutral_none",
+      "register": "authored",
+      "target_of_negativity": "other"
+    },
+    {
+      "row_id": 1707,
+      "relevance": "colored",
+      "stance_rkn": "supportive",
+      "register": "authored",
+      "target_of_negativity": "western_platforms"
+    },
+    {
+      "row_id": 48823,
+      "relevance": "no_stance",
+      "stance_rkn": "neutral_none",
+      "register": "news_relay",
+      "target_of_negativity": "none"
+    },
+    {
+      "row_id": 402,
+      "relevance": "colored",
+      "stance_rkn": "critical",
+      "register": "authored",
+      "target_of_negativity": "rkn"
+    },
+    {
+      "row_id": 50368,
+      "relevance": "no_stance",
+      "stance_rkn": "neutral_none",
+      "register": "news_relay",
+      "target_of_negativity": "none"
+    },
+    {
+      "row_id": 46465,
+      "relevance": "colored",
+      "stance_rkn": "supportive",
+      "register": "authored",
+      "target_of_negativity": "none"
+    },
+    {
+      "row_id": 10983,
+      "relevance": "no_stance",
+      "stance_rkn": "neutral_none",
+      "register": "news_relay",
+      "target_of_negativity": "none"
+    },
+    {
+      "row_id": 52780,
+      "relevance": "colored",
+      "stance_rkn": "critical",
+      "register": "authored",
+      "target_of_negativity": "rkn"
+    },
+    {
+      "row_id": 63779,
+      "relevance": "colored",
+      "stance_rkn": "supportive",
+      "register": "mixed",
+      "target_of_negativity": "western_platforms"
+    },
+    {
+      "row_id": 70175,
+      "relevance": "colored",
+      "stance_rkn": "critical",
+      "register": "authored",
+      "target_of_negativity": "rkn"
+    },
+    {
+      "row_id": 47025,
+      "relevance": "no_stance",
+      "stance_rkn": "neutral_none",
+      "register": "news_relay",
+      "target_of_negativity": "none"
+    }
+  ]
+}

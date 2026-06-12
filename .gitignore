@@ -1,0 +1,25 @@
+# --- Кэши Python -------------------------------------------------------------
+__pycache__/
+*.pyc
+*.pyo
+
+# --- Исходные данные (велики для git; раздаются отдельно, см. README) ---------
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+inputs/
+
+# --- Крупные производные корпуса (генерируются reproduce.sh либо скачиваются) -
+outputs/*.jsonl
+
+# --- Каталоги модельных прогонов (parquet, эмбеддинги, интерактивные графики) -
+topic_model_outputs_dynamic_putin_user_bge/
+topic_model_outputs_dynamic_putin_v2_user_bge/
+topic_model_outputs_dynamic_executors_user_bge/
+
+# --- Журналы прогонов ----------------------------------------------------------
+*.log
+
+# --- Архивы раздачи данных ---
+dist/
+*.zst

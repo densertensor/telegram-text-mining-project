@@ -1,0 +1,33 @@
+--extra-index-url https://download.pytorch.org/whl/cu124
+
+numpy>=1.26.0
+pandas>=2.2.0
+scipy>=1.11.0
+scikit-learn>=1.4.0
+pyarrow>=16.0.0
+matplotlib>=3.8.0
+tqdm>=4.66.0
+
+bertopic>=0.16.0
+sentence-transformers>=2.7.0
+hdbscan>=0.8.33
+umap-learn>=0.5.5
+safetensors>=0.4.0
+
+# GPU stack:
+# Prefer installing GPU torch via conda for reliability on servers:
+#   conda install -n topic-sentiment -y pytorch=2.6 pytorch-cuda=12.4 -c pytorch -c nvidia
+# Pip fallback (kept flexible to avoid forcing CUDA wheel from pypi.nvidia.com):
+torch>=2.6.0,<2.7.0
+
+cuml-cu12>=25.2.0
+
+transformers>=4.40.0
+nltk>=3.8.1
+sentencepiece>=0.2.0
+protobuf>=4.25.0
+babel>=2.14.0
+pymorphy3[fast]>=2.0.0
+razdel>=0.5.0
+
+# geracl устанавливается отдельно через клонирование одноименного git-репозитория

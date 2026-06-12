@@ -1,0 +1,238 @@
+{
+ "executors/bak_2model.rows": 65698,
+ "executors/docs.rows": 65698,
+ "executors/n_topics": 120,
+ "executors/sentiment_shares": {
+  "negative": 0.443499,
+  "neutral": 0.481065,
+  "positive": 0.075436
+ },
+ "executors/zeroshot_probs.rows": 65698,
+ "filters/executors.corpus_counts": {
+  "A": 7025,
+  "AGENCIES": 3555,
+  "B2": 61418,
+  "C": 3851,
+  "GOV": 7502,
+  "PARL": 4498
+ },
+ "filters/executors.written": 85992,
+ "filters/president_v2.mixed": 66230,
+ "filters/president_v2.trigger_counts": {
+  "glavkoverh": 22,
+  "natslider": 370,
+  "pervoe_litso": 133,
+  "prezident": 107745,
+  "putin": 133061,
+  "putin_latin": 411,
+  "verkhovn": 9076,
+  "vladimir_vladimirovich": 3722,
+  "vvp": 3737
+ },
+ "filters/president_v2.written": 207776,
+ "frozen/blame_coding.rows": 1363,
+ "frozen/footer_crosspromo_urls.lines": 135,
+ "president_v2/docs.mixed_rows": 52647,
+ "president_v2/docs.rows": 161599,
+ "president_v2/key_files": [
+  "topic_model_outputs_dynamic_putin_v2_user_bge/docs_with_topics_and_sentiment.parquet",
+  "topic_model_outputs_dynamic_putin_v2_user_bge/topic_info.csv",
+  "topic_model_outputs_dynamic_putin_v2_user_bge/topics_over_time_full.csv",
+  "topic_model_outputs_dynamic_putin_v2_user_bge/topics_over_time_evolution.csv",
+  "topic_model_outputs_dynamic_putin_v2_user_bge/fig_sentiment_dynamics_full.png",
+  "topic_model_outputs_dynamic_putin_v2_user_bge/fig_topics_over_time_full_top.png",
+  "topic_model_outputs_dynamic_putin_v2_user_bge/fig_delta_share_top_full.png",
+  "topic_model_outputs_dynamic_putin_v2_user_bge/fig_topics_over_time_full_top_interactive.html",
+  "topic_model_outputs_dynamic_putin_v2_user_bge/config.json"
+ ],
+ "president_v2/n_topics": 31,
+ "president_v2/sentiment_shares": {
+  "negative": 0.416556,
+  "neutral": 0.460813,
+  "positive": 0.122631
+ },
+ "president_v2/zeroshot_probs.rows": 161599,
+ "results/filelist": [
+  "README.md",
+  "data/agregaty_tonalnost_do_posle.csv",
+  "data/aktory_tonalnost_do_posle.csv",
+  "data/audit_prezidentskogo_zaprosa.md",
+  "data/audit_rkn_dinamika.md",
+  "data/chastoty_terminov.csv",
+  "data/ispolniteli_filtr_summary.json",
+  "data/keis_korpus_tonalnost_do_posle.csv",
+  "data/kodirovanie_viny_rezultaty.csv",
+  "data/kontrasty_gipotezy.csv",
+  "data/prezident_v2_filtr_summary.json",
+  "data/prezident_v2_po_datam.csv",
+  "data/prezident_v2_tonalnost_do_posle.csv",
+  "data/profilirovanie_terminov_svod.md",
+  "data/sensitivity_2model_kontrasty.csv",
+  "data/topik_delty_po_agregatam.csv",
+  "fig_01_obemy_korpusov_po_datam.png",
+  "fig_02_dinamika_negativa_po_obektam.png",
+  "fig_03_negativ_do_posle_po_obektam.png",
+  "fig_04_kontrasty_gipotezy.png",
+  "fig_05_napravlenie_viny.png",
+  "fig_06_aktory_delta_negativa.png"
+ ],
+ "stage3/aggregate_sizes": {
+  "A": 5600,
+  "AGENCIES": 2577,
+  "B2": 46622,
+  "C": 3033,
+  "GOV": 5322,
+  "PARL": 3692
+ },
+ "stage3/aggregates.doc_counts": {
+  "v1_full_before|A": [
+   4346,
+   1254
+  ],
+  "v1_full_before|AGENCIES": [
+   2401,
+   176
+  ],
+  "v1_full_before|B2": [
+   43788,
+   2834
+  ],
+  "v1_full_before|C": [
+   2143,
+   890
+  ],
+  "v1_full_before|GOV": [
+   5133,
+   189
+  ],
+  "v1_full_before|PARL": [
+   3567,
+   125
+  ],
+  "v1_full_before|PRES": [
+   155014,
+   6585
+  ],
+  "v1_full_before|PRES_PURE": [
+   105303,
+   3649
+  ],
+  "v2_symmetric|A": [
+   342,
+   1254
+  ],
+  "v2_symmetric|AGENCIES": [
+   109,
+   176
+  ],
+  "v2_symmetric|B2": [
+   3236,
+   2834
+  ],
+  "v2_symmetric|C": [
+   215,
+   890
+  ],
+  "v2_symmetric|GOV": [
+   167,
+   189
+  ],
+  "v2_symmetric|PARL": [
+   112,
+   125
+  ],
+  "v2_symmetric|PRES": [
+   11251,
+   6585
+  ],
+  "v2_symmetric|PRES_PURE": [
+   5996,
+   3649
+  ]
+ },
+ "stage3/aggregates.negative_shares": {
+  "v1_full_before|A": [
+   0.478831,
+   0.599681,
+   0.12085
+  ],
+  "v1_full_before|AGENCIES": [
+   0.766764,
+   0.670455,
+   -0.096309
+  ],
+  "v1_full_before|B2": [
+   0.438705,
+   0.399083,
+   -0.039622
+  ],
+  "v1_full_before|C": [
+   0.635091,
+   0.617978,
+   -0.017113
+  ],
+  "v1_full_before|GOV": [
+   0.188584,
+   0.312169,
+   0.123586
+  ],
+  "v1_full_before|PARL": [
+   0.434258,
+   0.552,
+   0.117742
+  ],
+  "v1_full_before|PRES": [
+   0.414601,
+   0.462566,
+   0.047965
+  ],
+  "v1_full_before|PRES_PURE": [
+   0.362991,
+   0.380926,
+   0.017936
+  ],
+  "v2_symmetric|A": [
+   0.461988,
+   0.599681,
+   0.137693
+  ],
+  "v2_symmetric|AGENCIES": [
+   0.825688,
+   0.670455,
+   -0.155234
+  ],
+  "v2_symmetric|B2": [
+   0.383189,
+   0.399083,
+   0.015893
+  ],
+  "v2_symmetric|C": [
+   0.553488,
+   0.617978,
+   0.064489
+  ],
+  "v2_symmetric|GOV": [
+   0.347305,
+   0.312169,
+   -0.035136
+  ],
+  "v2_symmetric|PARL": [
+   0.383929,
+   0.552,
+   0.168071
+  ],
+  "v2_symmetric|PRES": [
+   0.433384,
+   0.462566,
+   0.029183
+  ],
+  "v2_symmetric|PRES_PURE": [
+   0.346064,
+   0.380926,
+   0.034862
+  ]
+ },
+ "stage3/cutoff": "2026-01-16",
+ "stage3/docs_total": 65698,
+ "stage3/sensitivity_2model.rows": 12
+}

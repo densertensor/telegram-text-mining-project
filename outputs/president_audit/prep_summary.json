@@ -1,0 +1,55 @@
+{
+ "precision": {
+  "total_in_window": 169702,
+  "trigger_counts": {
+   "putin|after": 3067,
+   "prezident|after": 4583,
+   "verkhovn|after": 1199,
+   "verkhovn_only|after": 992,
+   "vladimir_vladimirovich|after": 102,
+   "prezident_foreign|after": 1229,
+   "prezident|before": 84410,
+   "prezident_foreign|before": 18118,
+   "putin|before": 94282,
+   "verkhovn|before": 13046,
+   "vladimir_vladimirovich|before": 2704,
+   "verkhovn_only|before": 10161,
+   "verkhovn_rada|before": 4871,
+   "verkhovn_rada|after": 203
+  },
+  "samples": "outputs/president_audit/precision_samples.jsonl"
+ },
+ "recall": {
+  "totals": {
+   "vvp|after": 201,
+   "pervoe_litso|after": 79,
+   "tsar|after": 231,
+   "vvp|before": 3879,
+   "pervoe_litso|before": 2042,
+   "tsar|before": 3336,
+   "glavkoverh|before": 13,
+   "natslider|before": 233,
+   "putin_latin|before": 250,
+   "hozyain_kremlya|before": 9,
+   "putin_latin|after": 4,
+   "pynya|before": 5,
+   "natslider|after": 12
+  },
+  "uncovered": {
+   "vvp|after": 139,
+   "pervoe_litso|after": 76,
+   "tsar|after": 191,
+   "vvp|before": 2823,
+   "pervoe_litso|before": 1898,
+   "tsar|before": 2929,
+   "glavkoverh|before": 10,
+   "natslider|before": 94,
+   "putin_latin|before": 121,
+   "pynya|before": 3,
+   "natslider|after": 8,
+   "putin_latin|after": 1,
+   "hozyain_kremlya|before": 1
+  },
+  "candidates": "outputs/president_audit/recall_candidates.jsonl"
+ }
+}
