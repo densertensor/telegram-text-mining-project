@@ -1,0 +1,2 @@
+scenario,before_start,before_end,after_start,after_end,n_days_after,docs_in_scenario,docs_before,docs_after
+full,2022-02-24,2026-01-15,2026-01-16,2026-04-24,99,161599,155014,6585

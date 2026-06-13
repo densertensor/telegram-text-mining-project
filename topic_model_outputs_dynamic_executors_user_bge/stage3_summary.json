@@ -1,0 +1,15 @@
+{
+ "analysis_start": "2022-02-24",
+ "analysis_end": "2026-04-24",
+ "cutoff": "2026-01-16",
+ "n_days_after": 99,
+ "docs_total": 65698,
+ "aggregate_sizes": {
+  "A": 5600,
+  "B2": 46622,
+  "C": 3033,
+  "GOV": 5322,
+  "PARL": 3692,
+  "AGENCIES": 2577
+ }
+}

@@ -14,8 +14,10 @@ outputs/*.jsonl
 
 # --- Каталоги модельных прогонов (parquet, эмбеддинги, интерактивные графики) -
 topic_model_outputs_dynamic_putin_user_bge/
-topic_model_outputs_dynamic_putin_v2_user_bge/
-topic_model_outputs_dynamic_executors_user_bge/
+topic_model_outputs_dynamic_*/bertopic_user_bge_m3_dynamic/
+topic_model_outputs_dynamic_*/*.parquet
+topic_model_outputs_dynamic_*/*.parquet.bak_2model
+topic_model_outputs_dynamic_*/*.npy
 
 # --- Журналы прогонов ----------------------------------------------------------
 *.log

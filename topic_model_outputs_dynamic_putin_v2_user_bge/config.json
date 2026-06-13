@@ -1,0 +1,61 @@
+{
+  "in_jsonl": "outputs/president_putin_selection_v2_for_model.jsonl",
+  "analysis_start": "2022-02-24",
+  "analysis_end": "2026-04-24",
+  "cutoff_date": "2026-01-16",
+  "embedding_model_name": "deepvk/USER-bge-m3",
+  "gpu_ids": [
+    13,
+    14,
+    15
+  ],
+  "nr_bins": 50,
+  "umap_backend": "umap-learn",
+  "umap_n_neighbors": 100,
+  "umap_n_components": 5,
+  "umap_min_dist": 0.0,
+  "umap_metric": "cosine",
+  "min_topic_size": 100,
+  "min_samples": 3,
+  "cluster_selection_method": "leaf",
+  "nr_topics": "auto",
+  "sentiment_models": [
+    "cardiffnlp/twitter-xlm-roberta-base-sentiment",
+    "seara/rubert-base-cased-russian-sentiment"
+  ],
+  "zero_shot_sentiment_model": "deepvk/GeRaCl-USER2-base",
+  "zero_shot_labels": [
+    "нейтральный",
+    "позитивный",
+    "негативный"
+  ],
+  "sentiment_batch_size": 128,
+  "sentiment_max_length": 512,
+  "sentiment_rolling_days": 7,
+  "sentiment_bin_days": 30,
+  "disable_sentiment": false,
+  "recompute_sentiment_only": false,
+  "recompute_topics_only": false,
+  "filter_query_stop_terms": [
+    "президент",
+    "президента",
+    "президенту",
+    "президентом",
+    "президенте",
+    "путин",
+    "путина",
+    "путину",
+    "путиным",
+    "путине",
+    "владимир",
+    "владимира",
+    "владимиру",
+    "владимиром",
+    "владимирович",
+    "владимировича",
+    "владимировичу",
+    "верховный"
+  ],
+  "no_interactive_topic_plots": false,
+  "no_evolution": false
+}

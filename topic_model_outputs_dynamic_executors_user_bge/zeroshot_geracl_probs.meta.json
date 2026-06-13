@@ -1,0 +1,23 @@
+{
+ "model": "models/GeRaCl-USER2-base",
+ "labels": [
+  "нейтральный",
+  "позитивный",
+  "негативный"
+ ],
+ "canonical_order": [
+  "negative",
+  "neutral",
+  "positive"
+ ],
+ "n_docs": 65698,
+ "in_parquet": "topic_model_outputs_dynamic_executors_user_bge/docs_with_topics.parquet",
+ "text_col": "text",
+ "devices": [
+  "cuda:0",
+  "cuda:1",
+  "cuda:2",
+  "cuda:3"
+ ],
+ "elapsed_sec": 476.0
+}
